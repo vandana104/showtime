@@ -1,3 +1,79 @@
+
+
+# My React Movie App --  SHOWTIME
+
+## Description
+This is a React application for displaying a list of movies fetched from an API. The app consists of three main components: SignUp, Login, and Home.
+
+## Features
+- **Authentication**: Users can sign up and login to access the app.
+- **Movie List**: Displays a list of movies fetched from an external API.
+- **Error Handling**: Displays error messages if there are issues with fetching data from the API.
+
+## Technologies Used
+- React
+- React Router DOM
+- Material-UI
+
+## Installation
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/vandana104/showtime.git
+   ```
+2. Navigate to the project directory:
+   ```
+   cd showtime
+   ```
+3. Install dependencies:
+   ```
+   npm install
+   ```
+4. Start the development server:
+   ```
+   npm start
+   ```
+5. Open your web browser and go to `http://localhost:3000` to view the app.
+
+## Usage
+1. **Sign Up**: Click on the "Sign Up" link to create a new account.
+2. **Login**: After signing up, you can log in using your credentials.
+3. **Home**: Upon successful login, you'll be redirected to the Home page where you can view a list of movies.
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/my-feature`).
+3. Make your changes and commit them (`git commit -am 'Add new feature'`).
+4. Push your changes to the branch (`git push origin feature/my-feature`).
+5. Create a new Pull Request.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+If you have any questions or suggestions regarding this project, feel free to contact me at [your@email.com].
+
+---
+
+You can customize this README further if needed. Let me know if you need any additional assistance!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
